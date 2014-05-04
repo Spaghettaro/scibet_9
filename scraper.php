@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 
 # Blank PHP
 require 'scraperwiki/simple_html_dom.php';           
